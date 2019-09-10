@@ -1,6 +1,6 @@
 # Установка Docker на Ubuntu одной командой 
 
-![Обложка](/assets/img/docker-install-ubuntu.png)
+![Обложка](./docker-install-ubuntu.png)
 
 ## Как:
 
